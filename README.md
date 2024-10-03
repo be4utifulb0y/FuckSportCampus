@@ -34,7 +34,7 @@
 
 5. 打开后搜索**8currentStep**并修改
 
-   ![pic4](C:\Users\easy123\Desktop\新建文件夹\pic4.png)
+   ![pic4](pic4.png)
 
 6. 打开高校体育并上传记录即可
 
